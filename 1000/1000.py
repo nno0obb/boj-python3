@@ -7,8 +7,14 @@
 
 
 def main():
+    # Input
     A, B = map(int, input().split())
-    print(A + B)
+
+    # Logic
+    S = A + B
+
+    # Output
+    print(S)
 
 
 if __name__ == '__main__':
