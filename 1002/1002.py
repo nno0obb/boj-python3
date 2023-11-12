@@ -1,6 +1,6 @@
 """
 # BOJ
-# No. 1000
+# No. 1002
 # Python 3.10.4
 # by "nno0obb"
 """
