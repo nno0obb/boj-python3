@@ -9,7 +9,7 @@ def main():
     # <NO>/<NO>.py
     no = int(sys.argv[1])
     os.mkdir(str(no))
-    with open('templates/template.py', 'r') as f:
+    with open('template.py', 'r') as f:
         template = f.readlines()
         with open(f'{no}/{no}.py', 'w') as g:
             template[2] = f'# No. {no}\n'
