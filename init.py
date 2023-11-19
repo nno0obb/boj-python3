@@ -30,7 +30,7 @@ def main():
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15',
     }
 
-    response = requests.get('https://www.acmicpc.net/problem/1012', headers=headers)
+    response = requests.get(f'https://www.acmicpc.net/problem/{no}', headers=headers)
     soup = bs(response.text, 'html.parser')
 
     cnt = 0
