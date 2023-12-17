@@ -9,4 +9,4 @@ $ python3 1000.py < 예제_입력_1.txt
 * [2869](https://github.com/nno0obb/boj-python3/tree/main/2869)
 * [2609](https://github.com/nno0obb/boj-python3/tree/main/2609)
 * [10989](https://github.com/nno0obb/boj-python3/tree/main/10989)
-* [2775](* [10989](https://github.com/nno0obb/boj-python3/tree/main/2775)
+* [2775](https://github.com/nno0obb/boj-python3/tree/main/2775)
