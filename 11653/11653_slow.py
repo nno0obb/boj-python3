@@ -3,6 +3,7 @@
 # No. 11653
 # Python 3.10.4
 # by "nno0obb"
+# ver. slow
 """
 
 
